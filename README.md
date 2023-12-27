@@ -1,9 +1,9 @@
 ### 👋 Hi there!
 Welcome to the workspace of helloItsUniverse.
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=helloItsUniverse&show_icons=true)
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=helloItsUniverse&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=compact&theme=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=compact&theme=tokyonight)
 
 
 ### 🌱 I’m currently learning ...
