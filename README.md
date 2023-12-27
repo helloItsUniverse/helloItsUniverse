@@ -3,14 +3,7 @@ Welcome to the workspace of helloItsUniverse.
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=helloItsUniverse&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=compact&theme=tokyonight)
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/${helloItsUniverse}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${helloItsUniverse}&layout=compact&show_icons=${True}&show_owner=${True}&hide_title=${True}&theme=${nord}&hide=${java}" />
-  </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=compact&theme=dracula)
 
 
 ### 🌱 I’m currently learning ...
