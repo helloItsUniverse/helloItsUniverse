@@ -5,6 +5,7 @@ Welcome to the workspace of helloItsUniverse.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=compact&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&langs_count=10&layout=compact)]()
 
 ### 🌱 I’m currently learning ...
 - Git
