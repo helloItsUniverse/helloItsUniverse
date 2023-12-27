@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! 👋
+Welcome to the workspace of helloItsUniverse.
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=helloItsUniverse&show_icons=true)
 
 <!--
