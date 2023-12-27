@@ -3,6 +3,10 @@ Welcome to the workspace of helloItsUniverse.
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=helloItsUniverse&show_icons=true)
 
+### 🌱 I’m currently learning ...
+- Git
+- Github
+- DB
 <!--
 **helloItsUniverse/helloItsUniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
