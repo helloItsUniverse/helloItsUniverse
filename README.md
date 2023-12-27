@@ -5,6 +5,13 @@ Welcome to the workspace of helloItsUniverse.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=compact&theme=tokyonight)
 
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/${깃닉네임}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=$helloItsUniverse&layout=compact&show_icons=$True&show_owner=$True&hide_title=$True&theme=$nord" />
+  </a>
+</p>
+
 
 ### 🌱 I’m currently learning ...
 - Git
