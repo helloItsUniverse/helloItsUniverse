@@ -3,7 +3,7 @@ Welcome to the workspace of helloItsUniverse.
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=helloItsUniverse&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=donut)](https://github.com/helloItsUniverse/selfstudy-01-DB)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🌱 I’m currently learning ...
