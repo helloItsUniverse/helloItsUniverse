@@ -8,9 +8,6 @@ Welcome to the workspace of helloItsUniverse.
 - Github
 - DB (MariaDB)
 
-### 🌱 I’m currently learning ...
-- ㅁㄴㅇㅁㄴㅇㅁ
-
 <!--
 **helloItsUniverse/helloItsUniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
