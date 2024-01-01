@@ -3,7 +3,6 @@
     </div>
 
 ## 👋 Hi there!
----
 Welcome to the workspace of helloItsUniverse.
 
 <div style="text-align: left;">
