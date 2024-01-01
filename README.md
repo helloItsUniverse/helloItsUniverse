@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=595959&height=120&text=Universe's%20Universe&animation=&fontColor=ffffff&fontSize=50" />
     </div>
 
-### 👋 Hi there!
+## 👋 Hi there!
 ---
 Welcome to the workspace of helloItsUniverse.
 
