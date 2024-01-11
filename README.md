@@ -20,7 +20,7 @@ Welcome to the workspace of helloItsUniverse.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=compact&theme=tokyonight)
 
 
-### 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 - Git
 - Github
 - DB (MariaDB)
