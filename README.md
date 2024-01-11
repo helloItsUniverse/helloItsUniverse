@@ -4,9 +4,7 @@
 
 ## 👋 Hi there!
 Welcome to the workspace of helloItsUniverse.
-
-
-
+<br>
 
 ## 🛠️ Tech Stacks
 <div style="text-align: left;">
