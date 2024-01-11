@@ -15,7 +15,7 @@ Welcome to the workspace of helloItsUniverse.
     </div>
 
 
-
+## Github Stats
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=helloItsUniverse&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloItsUniverse&layout=compact&theme=tokyonight)
