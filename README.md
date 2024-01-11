@@ -4,7 +4,6 @@
 
 ## 👋 Hi there!
 Welcome to the workspace of helloItsUniverse.
-<br>
 
 ## 🛠️ Tech Stacks
 <div style="text-align: left;">
@@ -14,7 +13,6 @@ Welcome to the workspace of helloItsUniverse.
           <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
           </div>
     </div>
-
 
 ## Github Stats
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=helloItsUniverse&show_icons=true&theme=tokyonight)
