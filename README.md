@@ -24,6 +24,7 @@ Welcome to the workspace of helloItsUniverse.
 - Git
 - Github
 - DB (MariaDB)
+- Java
 
 <!--
 **helloItsUniverse/helloItsUniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
