@@ -25,11 +25,11 @@ Welcome to the workspace of helloItsUniverse.
 - [x] Github
 - [x] DB (MariaDB)
 - [x] Java
-- [ ] Mybatis
-- [ ] Spring Data JPA
-- [ ] MSA(Netflix Eureka)
-- [ ] HTML
-- [ ] CSS
+- [x] Mybatis
+- [x] Spring Data JPA
+- [x] MSA(Netflix Eureka)
+- [x] HTML
+- [x] CSS
 - [ ] JavaScript
 
 <!--
